@@ -34,6 +34,8 @@ dependencies:
   equatable: ^1.2.5
   http: ^0.12.2
   image_picker: ^0.6.7+22
+  camera: ^0.7.0+2
+  provider: ^4.3.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
